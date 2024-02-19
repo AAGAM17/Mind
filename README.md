@@ -24,8 +24,6 @@ npm install
 or
 yarn install
 
-)
-Remember to replace placeholders like your_username_, Project-Name, https://github.com/your_username_/Project-Name.git, https://github.com/your_username/repo_name, Your Name, and example@example.com with your actual GitHub username, project name, project link, your name, and your email respectively.
 
 ## Usage
 
@@ -54,8 +52,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - example@example.com
-
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-Remember to replace placeholders like your_username_, Project-Name, https://github.com/your_username_/Project-Name.git, https://github.com/your_username/repo_name, Your Name, and example@example.com with your actual GitHub username, project name, project link, your name, and your email respectively.
