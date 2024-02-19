@@ -32,7 +32,9 @@ yarn install
 
 ## Usage
 
-Explain how to run the automated tests for this system
+npm start 
+
+## Note: Replace Your OPENAI API KEY where Required.
 
 ## Built With
 
