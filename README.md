@@ -5,7 +5,7 @@ This is a React Native application built with TypeScript. It uses `react-navigat
 Aagam Shah: https://github.com/AAGAM17/
 Swarali Pednekar: https://github.com/swaralipednekar
 Vimi Dedhia: https://github.com/Vimidedhia2005
-Omkar Haryan:
+Omkar Haryan: https://github.com/Meanwhile-omkar
 
 ## Getting Started
 
