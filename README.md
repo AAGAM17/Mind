@@ -1,6 +1,11 @@
-# Project Title
-
+# Description
 This is a React Native application built with TypeScript. It uses `react-navigation` for routing and navigation, and `react-native-paper` for UI components. The application includes features like Login, Home, Assessment, Activity Detail, Community, Game, Mindful Chatbot, Profile, Notifications, Story, Music, Discussion Forums, and two games.
+
+# Developers
+Aagam Shah: https://github.com/AAGAM17/
+Swarali Pednekar: https://github.com/swaralipednekar
+Vimi Dedhia: https://github.com/Vimidedhia2005
+Omkar Haryan:
 
 ## Getting Started
 
@@ -51,5 +56,7 @@ Any contributions you make are **greatly appreciated**.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
+
+Linkedin: https://www.linkedin.com/in/aagam-shah-1b94ba209/
 
 Project Link: https://github.com/AAGAM17/Mind.git
