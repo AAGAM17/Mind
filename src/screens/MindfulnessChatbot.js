@@ -23,7 +23,7 @@ const MindfulnessChatBot = () => {
         {
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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', // Replace with your OpenAI API key
+            'Authorization': 'Bearer OPEN_API_KEY', // Replace with your OpenAI API key
           },
         }
       );

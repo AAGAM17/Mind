@@ -29,7 +29,7 @@ const AssessmentScreen = () => {
         {
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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',
+            'Authorization': 'Bearer OPEN_API_KEY',
           },
         }
       );
