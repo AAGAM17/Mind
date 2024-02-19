@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repo
-2. git clone https://github.com/your_username_/Project-Name.git
+2. git clone https://github.com/AAGAM17/Mind.git
 
 packages
 npm install
@@ -52,4 +52,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: https://github.com/AAGAM17/Mind.git
