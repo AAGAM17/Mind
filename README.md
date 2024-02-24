@@ -42,10 +42,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Contributors
 # Core Developers
-Aagam Shah: https://github.com/AAGAM17/
-Swarali Pednekar: https://github.com/swaralipednekar
-Vimi Dedhia: https://github.com/Vimidedhia2005
-Omkar Haryan: https://github.com/Meanwhile-omkar
+ - Aagam Shah: https://github.com/AAGAM17/
+ - Swarali Pednekar: https://github.com/swaralipednekar
+ - Vimi Dedhia: https://github.com/Vimidedhia2005
+ - Omkar Haryan: https://github.com/Meanwhile-omkar
 
 ## Contributing
 
